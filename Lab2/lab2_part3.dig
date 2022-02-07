@@ -2266,7 +2266,7 @@
           <string>reg0_1</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="500"/>
+      <pos x="2940" y="460"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2280,7 +2280,7 @@
           <string>reg0_2</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="540"/>
+      <pos x="3380" y="460"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2294,7 +2294,7 @@
           <string>reg0_3</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="580"/>
+      <pos x="3820" y="460"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2308,7 +2308,7 @@
           <string>reg1_0</string>
         </entry>
       </elementAttributes>
-      <pos x="2940" y="460"/>
+      <pos x="2500" y="500"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2336,7 +2336,7 @@
           <string>reg1_2</string>
         </entry>
       </elementAttributes>
-      <pos x="2940" y="540"/>
+      <pos x="3380" y="500"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2350,7 +2350,7 @@
           <string>reg1_3</string>
         </entry>
       </elementAttributes>
-      <pos x="2940" y="580"/>
+      <pos x="3820" y="500"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2364,7 +2364,7 @@
           <string>reg2_0</string>
         </entry>
       </elementAttributes>
-      <pos x="3380" y="460"/>
+      <pos x="2500" y="540"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2378,7 +2378,7 @@
           <string>reg2_1</string>
         </entry>
       </elementAttributes>
-      <pos x="3380" y="500"/>
+      <pos x="2940" y="540"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2406,7 +2406,7 @@
           <string>reg2_3</string>
         </entry>
       </elementAttributes>
-      <pos x="3380" y="580"/>
+      <pos x="3820" y="540"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2420,7 +2420,7 @@
           <string>reg3_0</string>
         </entry>
       </elementAttributes>
-      <pos x="3820" y="460"/>
+      <pos x="2500" y="580"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2434,7 +2434,7 @@
           <string>reg3_1</string>
         </entry>
       </elementAttributes>
-      <pos x="3820" y="500"/>
+      <pos x="2940" y="580"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2448,7 +2448,7 @@
           <string>reg3_2</string>
         </entry>
       </elementAttributes>
-      <pos x="3820" y="540"/>
+      <pos x="3380" y="580"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2516,21 +2516,21 @@
           <string>sel^readA_1</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="680"/>
+      <pos x="2500" y="720"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
       <elementAttributes>
         <entry>
           <string>rotation</string>
-          <rotation reference="../../../../visualElement[212]/elementAttributes/entry/rotation"/>
+          <rotation rotation="2"/>
         </entry>
         <entry>
           <string>NetName</string>
           <string>sel^readA_0</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="720"/>
+      <pos x="2500" y="680"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2544,7 +2544,7 @@
           <string>sel^readB_1</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="1060"/>
+      <pos x="2500" y="1100"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2558,7 +2558,7 @@
           <string>sel^readB_0</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="1100"/>
+      <pos x="2500" y="1060"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -2586,21 +2586,21 @@
           <string>sel^readA_1</string>
         </entry>
       </elementAttributes>
-      <pos x="2980" y="680"/>
+      <pos x="2980" y="720"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
       <elementAttributes>
         <entry>
           <string>rotation</string>
-          <rotation reference="../../../../visualElement[217]/elementAttributes/entry/rotation"/>
+          <rotation rotation="2"/>
         </entry>
         <entry>
           <string>NetName</string>
           <string>sel^readA_0</string>
         </entry>
       </elementAttributes>
-      <pos x="2980" y="720"/>
+      <pos x="2980" y="680"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -2628,21 +2628,21 @@
           <string>sel^readA_1</string>
         </entry>
       </elementAttributes>
-      <pos x="3420" y="680"/>
+      <pos x="3420" y="720"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
       <elementAttributes>
         <entry>
           <string>rotation</string>
-          <rotation reference="../../../../visualElement[220]/elementAttributes/entry/rotation"/>
+          <rotation rotation="2"/>
         </entry>
         <entry>
           <string>NetName</string>
           <string>sel^readA_0</string>
         </entry>
       </elementAttributes>
-      <pos x="3420" y="720"/>
+      <pos x="3420" y="680"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -2670,21 +2670,21 @@
           <string>sel^readA_1</string>
         </entry>
       </elementAttributes>
-      <pos x="3860" y="680"/>
+      <pos x="3860" y="720"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
       <elementAttributes>
         <entry>
           <string>rotation</string>
-          <rotation reference="../../../../visualElement[223]/elementAttributes/entry/rotation"/>
+          <rotation rotation="2"/>
         </entry>
         <entry>
           <string>NetName</string>
           <string>sel^readA_0</string>
         </entry>
       </elementAttributes>
-      <pos x="3860" y="720"/>
+      <pos x="3860" y="680"/>
     </visualElement>
     <visualElement>
       <elementName>Splitter</elementName>
@@ -2726,7 +2726,7 @@
           <string>reg0_1</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="880"/>
+      <pos x="2940" y="840"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2740,7 +2740,7 @@
           <string>reg0_2</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="920"/>
+      <pos x="3380" y="840"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2754,7 +2754,7 @@
           <string>reg0_3</string>
         </entry>
       </elementAttributes>
-      <pos x="2500" y="960"/>
+      <pos x="3820" y="840"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2768,7 +2768,7 @@
           <string>reg1_0</string>
         </entry>
       </elementAttributes>
-      <pos x="2940" y="840"/>
+      <pos x="2500" y="880"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2796,7 +2796,7 @@
           <string>reg1_2</string>
         </entry>
       </elementAttributes>
-      <pos x="2940" y="920"/>
+      <pos x="3380" y="880"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2810,7 +2810,7 @@
           <string>reg1_3</string>
         </entry>
       </elementAttributes>
-      <pos x="2940" y="960"/>
+      <pos x="3820" y="880"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2824,7 +2824,7 @@
           <string>reg2_0</string>
         </entry>
       </elementAttributes>
-      <pos x="3380" y="840"/>
+      <pos x="2500" y="920"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2838,7 +2838,7 @@
           <string>reg2_1</string>
         </entry>
       </elementAttributes>
-      <pos x="3380" y="880"/>
+      <pos x="2940" y="920"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2866,7 +2866,7 @@
           <string>reg2_3</string>
         </entry>
       </elementAttributes>
-      <pos x="3380" y="960"/>
+      <pos x="3820" y="920"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2880,7 +2880,7 @@
           <string>reg3_0</string>
         </entry>
       </elementAttributes>
-      <pos x="3820" y="840"/>
+      <pos x="2500" y="960"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2894,7 +2894,7 @@
           <string>reg3_1</string>
         </entry>
       </elementAttributes>
-      <pos x="3820" y="880"/>
+      <pos x="2940" y="960"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -2908,7 +2908,7 @@
           <string>reg3_2</string>
         </entry>
       </elementAttributes>
-      <pos x="3820" y="920"/>
+      <pos x="3380" y="960"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3032,20 +3032,6 @@
           <string>sel^readB_1</string>
         </entry>
       </elementAttributes>
-      <pos x="2980" y="1060"/>
-    </visualElement>
-    <visualElement>
-      <elementName>Tunnel</elementName>
-      <elementAttributes>
-        <entry>
-          <string>rotation</string>
-          <rotation rotation="2"/>
-        </entry>
-        <entry>
-          <string>NetName</string>
-          <string>sel^readB_0</string>
-        </entry>
-      </elementAttributes>
       <pos x="2980" y="1100"/>
     </visualElement>
     <visualElement>
@@ -3057,10 +3043,10 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>sel^readB_1</string>
+          <string>sel^readB_0</string>
         </entry>
       </elementAttributes>
-      <pos x="3420" y="1060"/>
+      <pos x="2980" y="1060"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3071,7 +3057,7 @@
         </entry>
         <entry>
           <string>NetName</string>
-          <string>sel^readB_0</string>
+          <string>sel^readB_1</string>
         </entry>
       </elementAttributes>
       <pos x="3420" y="1100"/>
@@ -3085,10 +3071,24 @@
         </entry>
         <entry>
           <string>NetName</string>
+          <string>sel^readB_0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="3420" y="1060"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Tunnel</elementName>
+      <elementAttributes>
+        <entry>
+          <string>rotation</string>
+          <rotation rotation="2"/>
+        </entry>
+        <entry>
+          <string>NetName</string>
           <string>sel^readB_1</string>
         </entry>
       </elementAttributes>
-      <pos x="3860" y="1060"/>
+      <pos x="3860" y="1100"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3102,7 +3102,7 @@
           <string>sel^readB_0</string>
         </entry>
       </elementAttributes>
-      <pos x="3860" y="1100"/>
+      <pos x="3860" y="1060"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3549,7 +3549,7 @@
           <string>inB_0</string>
         </entry>
       </elementAttributes>
-      <pos x="4140" y="940"/>
+      <pos x="2760" y="940"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3559,7 +3559,7 @@
           <string>inB_1</string>
         </entry>
       </elementAttributes>
-      <pos x="3680" y="940"/>
+      <pos x="3240" y="940"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3569,7 +3569,7 @@
           <string>inB_2</string>
         </entry>
       </elementAttributes>
-      <pos x="3240" y="940"/>
+      <pos x="3680" y="940"/>
     </visualElement>
     <visualElement>
       <elementName>Tunnel</elementName>
@@ -3579,7 +3579,7 @@
           <string>inB_3</string>
         </entry>
       </elementAttributes>
-      <pos x="2760" y="940"/>
+      <pos x="4140" y="940"/>
     </visualElement>
   </visualElements>
   <wires>
@@ -4180,12 +4180,12 @@
       <p2 x="4720" y="60"/>
     </wire>
     <wire>
-      <p1 x="2460" y="60"/>
-      <p2 x="2580" y="60"/>
-    </wire>
-    <wire>
       <p1 x="4220" y="60"/>
       <p2 x="4540" y="60"/>
+    </wire>
+    <wire>
+      <p1 x="2460" y="60"/>
+      <p2 x="2580" y="60"/>
     </wire>
     <wire>
       <p1 x="3140" y="60"/>
