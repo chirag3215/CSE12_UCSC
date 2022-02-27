@@ -1,0 +1,19 @@
+assignment:  lab 2
+name:        Chirag Amatya
+cruzid:      camatya
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+30 / 30 Part-1 completed
+30 / 30 Part-2 completed
+30 / 30 Part-3 completed
+10 / 10 README.txt in the lab2/ directory exists (empty file allowed)
+
+
+--------------------
+TOTAL
+
+points earned:   100
+lab total:       100
+late hours used: 0
