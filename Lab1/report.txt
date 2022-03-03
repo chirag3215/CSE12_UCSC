@@ -1,0 +1,16 @@
+assignment:  Lab 1
+cruzid:      camatya
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+
+30 / 30 Part A Implemented Correctly
+30 / 30 Part B Implemented Correctly
+40 / 40 Part C Implemented Correctly
+--------------------
+TOTAL
+
+points earned:   100
+lab total:       100
+lab on time:     Yes

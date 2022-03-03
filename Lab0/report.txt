@@ -1,0 +1,22 @@
+assignment:  Lab 0
+name:        Amatya, Chirag
+cruzid:      camatya
+
+----------------------------------------
+GRADE BREAKDOWN
+----------------------------------------
+
+2 / 2 created all lab{0,1,2,3,4} directories
+2 / 2 created all lab{0,1,2,3,4}/README.txt files
+2 / 2 lab0/README.txt includes the correct statement
+2 / 2 lab0/README.txt contains CruzID
+0 / 2 lab0/README.txt date in the correct format
+comment: The date should be January 2022
+
+
+--------------------
+TOTAL
+
+points earned:   8
+lab total:       10
+late hours used: calc_late_hours() was not called
