@@ -1,0 +1,20 @@
+ID : camatya@ucsc.edu
+******************************************
+part a: 18/20
+writing multiple times to both addresses
+
+part b: 9/10
+writing multiple times to both addresses
+
+part c: 15/20
+not storing result
+
+part d: 10/10
+
+
+part e: 29/30
+writing multiple times to same address
+
+README.txt: 10/10
+******************************************
+TOTAL (max 100): 91
