@@ -70,6 +70,7 @@ Part2-b: The submitted .hex file produces correct the correct output for the Stu
 
 ---------Part3-a (10 pts)-------
 Part3-a: The output of the compiled C code matches the output of the submited .hex. (Full points +10)
+
 ---------Part3-b (10 pts)-------
 Part3-b: The submitted .hex file produces correct the correct output for the Student ID parameters. (Full points +10)
 
