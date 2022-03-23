@@ -49,7 +49,6 @@ Solution part3:
 ---------Part1 (40 pts)-------
 ---------Part1-a (20 pts)-------
 Part1-a: The output of the compiled assembly file matches the output of the submited .hex. (Full points +20)
-Part1-a: The output of the compiled assembly file matches the output of the submited .hex. (Full points +20)
 
 ---------Part1-b (20 pts)-------
 Part1-b: The submitted .hex file produces correct the correct output for the Student ID parameters. (Full points +20)
@@ -57,7 +56,6 @@ Part1-b: The submitted .hex file produces correct the correct output for the Stu
 
 ================================
 ---------Part2 (40 pts)-------
-
 ---------Part2-a (20 pts)-------
 Part2-a: The output of the compiled assembly file matches the output of the submited .hex. (Full points +20)
 
@@ -67,7 +65,6 @@ Part2-b: The submitted .hex file produces correct the correct output for the Stu
 
 ================================
 ---------Part3 (20 pts)-------
-
 ---------Part3-a (10 pts)-------
 Part3-a: The output of the compiled C code matches the output of the submited .hex. (Full points +10)
 
